@@ -175,7 +175,8 @@
 		"icy-veins": "e-t-c",
 		"storm-spy": 16,
 		"builds": {
-			"Balanced Build": [3, 2, 2, 1, 3, 3, 5]
+			"Balanced Build": [3, 2, 2, 1, 3, 3, 5],
+			"Sustain Build": [1, 2, 3, 1, 3, 2, 4]
 		}
 	},
 	"falstad": {
